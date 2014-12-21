@@ -268,14 +268,16 @@ h6,
 }
 
 .social-icons {
-    padding: 0.5em 0 0 0;
-    font-size: 1.25rem;
-    width: 100%;
+    padding: 1.5em 0 0 0;
+    font-size: 1.75rem;
+    width: 250px;
+    margin: 0 auto;
 }
 .social-icons a.fa {
     padding: 0.2em;
     opacity: 0.8;
     cursor: pointer;
+    color: #2e3138;
 }
 .social-icons a.fa:hover {
     opacity: 1;
@@ -510,3 +512,4 @@ Copyright (c) 2014 Daniel Eden
   -webkit-animation-name: fadeInDown;
           animation-name: fadeInDown;
 }
+
