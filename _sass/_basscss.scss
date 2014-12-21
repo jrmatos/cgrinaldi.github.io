@@ -13,6 +13,7 @@ body, button, input, select, textarea, pre {
   margin: 0;
 }
 
+
 h1, h2, h3, h4, h5, h6, p, dl, ol, ul {
   margin-top: 0;
   margin-bottom: 1rem;
@@ -769,4 +770,8 @@ a:hover {
 
 .transition-all {
   transition: all .2s ease;
+}
+
+.p-responsive.pull-up {
+    padding-top: 10px;
 }
