@@ -83,6 +83,7 @@ small, .small, .f5 {
     font-size: 1rem;
   }
 }
+
 @media screen and (min-width: 64em) {
   .h1 {
     font-size: 6rem;
@@ -360,6 +361,7 @@ strong, .bold {
 
 .p-responsive {
   padding: 1.5rem;
+  padding-top: 0px;
 }
 
 .px-responsive {
@@ -375,6 +377,9 @@ strong, .bold {
 @media screen and (min-width: 48em) and (max-width: 64em) {
   .p-responsive {
     padding: 3rem;
+    padding-top: 50px;
+    border-top: 1px #bbb solid;
+    margin-top: 30px;
   }
 
   .px-responsive {
@@ -390,7 +395,11 @@ strong, .bold {
 @media screen and (min-width: 64em) {
   .p-responsive {
     padding: 4rem;
+    padding-top: 50px;
+    border-top: 1px #bbb solid;
+    margin-top: 30px;
   }
+
 
   .px-responsive {
     padding-right: 4rem;
