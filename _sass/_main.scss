@@ -525,20 +525,30 @@ Copyright (c) 2014 Daniel Eden
 #subscribe {
   width: 150px;
   height: 50px;
-  border-radius: 50%;
-  background-color: #0096cc;
+  border-radius: 0%;
+  border: 1px solid #0096cc;
   line-height: 50px;
   margin: 0 auto;
   font-size: 22px;
 }
 
 #subscribe a {
+  color: #0096cc;
+  font-family: sans-serif;
+  font-size: 16px;
+  letter-spacing: 2px;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+#subscribe:hover {
+  background-color: #0096cc;
+}
+
+#subscribe:hover a {
   color: white;
 }
 
-#subscribe a:hover {
-  color: white;
-}
 
 /* decreasing the font-size between links */
 ul p {
