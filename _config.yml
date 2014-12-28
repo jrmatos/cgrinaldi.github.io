@@ -10,8 +10,8 @@ url:         "http://cgrinaldi.github.io"
 google_analytics: "UA-56717704-1"
 
 # Optional features
-animated:           false
-show_related_posts: false
+animated:           true
+show_related_posts: true
 show_post_footers:  true
 
 # Social icons
