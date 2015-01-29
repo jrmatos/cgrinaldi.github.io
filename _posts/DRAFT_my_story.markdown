@@ -1,0 +1,29 @@
+---
+layout:     post
+title:      My Story
+date:       2015-01-31 14:00:00
+summary:    The one where I talk about my origin story.
+---
+
+As my time at [Hack Reactor](http://www.hackreactor.com) draws nearer, I've been trying to figure out how I ended up on this path of attending an intensive software development program. My main realization is that it definitely has not been a direct one! Instead, it is as if many little things, things I didn't notice at the time, have been pushing me in this direction. And that isn't to say software engineering is my "purpose in life" (I personally don't subscribe to such a view). Instead, I think it has more to do with it being the intersection of my interests and mode of thinking, more than anything else.
+
+I would say it all started back when I was in middle school and I discovered that I could actually program my TI-83 Plus calculator. This probably sounds awfully familiar, since many people discover programming in this manner. Unfortunately for me, I didn't take the time to learn the basics (I didn't even know there were basics!), and the game I was programming ended up being mothballed when I couldn't figure out the simple task of inserting a new line of code. So I gave up...
+
+Flash forward a few years, and I'm in my freshman year of high school taking my first computer science course. Despite it being an honors class, the language we were using to learn the fundamentals of programming (variables, loops, etc.) was BASIC (both in name and in nature!). Even though we were using a rudimentary language, I had a great time. I made a **_very_** elaborate program that would draw the US flag as music played in the background. However, I was young and interested in a bunch of different subjects, so that was the first and last CS class I (unfortunately) took in high school.
+
+After high school, I attended both undergraduate and graduate school in rapid succession (OK, not that rapid, but it felt like it!). I initially wanted to study aerospace engineering, but switched to physics and math when my school removed the major and associated classes. Towards the end of my undergraduate career, I realized that physics wasn't for me, and I decided to attend graduate school to study operations research (an applied math field focused on optimizations amongst other things).
+
+I enjoyed my studies, but there was a common pattern throughout both my undergrad and grad years. I would take a CS class, really enjoy it, and then not take any follow-up classes. Looking back, I'm not sure why I did this since I clearly enjoyed the subject area. I think it may have been due to the inertia of staying on track for my major, but whatever the reason, I regret not taking more CS classes when I had the time!
+
+Flash forward and I'm finally working a real job after way too many years of schooling. My first position was as an operations research analyst for the US Transportation Command (USTRANSCOM), trying to predict when US shipments would arrive at their final destinations. This was my first exposure to the field of data mining, and I found it fascinating. There I got to dabble in R and VBA, and I loved the time I spent programming.
+
+My next position was with the US Army (also as an OR Analyst), and once again, I noticed that my best days were the ones where I was using programming to solve interesting problems. In particular, I used VBA and AWK to optimize various processes, mainly because performing the actual steps was mind-numbingly boring.
+
+Finally, in my most recent role, I've been using both Python and R (and lots of Excel...too much Excel!) to perform data analysis and predictive modeling in a national security setting. Once again, I've noticed my favorite days have been the ones where I had a clear objective in mind, and needed to program a solution to achieve it.
+
+The common theme throughout all of my academic and professional experiences has been that I have found myself immersed in my work when I'm solving tough problems that matter, using programming to achieve an impactful solution. The projects I've enjoyed working on the most have been ones that resulted in something tangible and usable, as opposed to something intangible like a report.
+
+I am incredibly excited about spending the next three months swimming in code at [Hack Reactor](http://www.hackreactor.com) and learning how to actually build something from the ground up. In my next post, I'll detail why I chose to attend a programming bootcamp, and in particular, why [Hack Reactor](http://www.hackreactor.com).
+
+
+
