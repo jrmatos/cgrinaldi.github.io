@@ -3,6 +3,7 @@ layout:     post
 title:      My Story
 date:       2015-01-31 14:00:00
 summary:    The one where I talk about how I ended up on the path to attending a programming bootcamp.
+tags: [background]
 ---
 
 As my time at [Hack Reactor](http://www.hackreactor.com) draws nearer, I've been trying to figure out how I ended up on this path to attending an intensive software development program. My main realization is that it definitely has not been a direct one! Instead, it is as if many little things, things I didn't notice at the time, have been pushing me in this direction. And that isn't to say software engineering is my "purpose in life" (I personally don't subscribe to such a view). Instead, I think it has more to do with it being the intersection of my interests and mode of thinking, more than anything else.

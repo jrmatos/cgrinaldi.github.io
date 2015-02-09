@@ -3,6 +3,7 @@ layout:     post
 title:      The Beginning...
 date:       2014-12-21 17:31:19
 summary:    The one where I start my blog by writing about my blog.
+tags: [background]
 ---
 
 Hello!

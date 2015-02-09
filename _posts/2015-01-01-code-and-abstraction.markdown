@@ -3,6 +3,7 @@ layout:     post
 title:      Code Abstraction and Functional Programming
 date:       2015-01-01 14:00:00
 summary:    The one where I marvel at code abstraction and functional programming, and talk about a code pyramid.
+tags: [functional-programming, programming, javascript]
 ---
 
 As part of the Hack Reactor Precourse curriculum, we were asked to implement a variant of the JavaScript library [Underscore](http://underscorejs.org/). The basic idea behind this library is to add functional programming methods to help with iterating, and acting on, collections of values. These functions include `each`, `map`, `filter`, and many others.
