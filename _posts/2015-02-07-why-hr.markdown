@@ -1,0 +1,38 @@
+---
+layout:     post
+title:      Why Hack Reactor
+date:       2015-02-07 00:00:00
+summary:    The one where I explain why I decided to attend a programming bootcamp, and why Hack Reactor in particular.
+tags: [hack-reactor, background]
+---
+
+In my [last post](http://cgrinaldi.github.io/2015/01/31/my-story/) I detailed how I became interested in the field of software development. It was a lot of little things that culminated with me applying to [Hack Reactor](http://www.hackreactor.com), a 13 week long software development "bootcamp". In this post, I want to focus on why I decided to attend a programming bootcamp, and why Hack Reactor in particular.
+
+## Why Bootcamp
+
+It all started a couple of years ago when I first read an article about [Dev Bootcamp](http://devbootcamp.com/). I was immediately attracted to the idea of an immersive experience in software engineering, but part of me was hesitant about quitting my job and putting my faith in an unproven model. I couldn't understand how someone coming out of a 9 week program could expect to be competitive with individuals that had spent 4 years learning fundamental computer science concepts. So while I was intrigued by the idea, I decided that I wasn't quite ready to make the leap.
+
+After a few years working for the US Army as an operations research analyst, I quit my job to work at a small company operating in the homeland security space. We specialized in using machine learning techniques to create predictive models to identify specific threats. I did have some programming experience before working there (all self-taught), but I decided to buckle down and really learn programming. My co-workers mainly used the [R Statistical Programming Language](http://www.r-project.org/), so I picked that up, but I also decided that I wanted to learn a general programming language. I came across Python and thought that it fit my needs perfectly. It was a great beginner's language, but it also had incredibly powerful packages (including one for [machine learning](http://scikit-learn.org/stable/)).
+
+As I learned Python, I became somewhat of an evangelist within the company. A co-worker and I decided to start a series of "Learn Python" sessions to help others pick up the language. I had a lot of fun teaching, and I quickly realized that the old maxim of "you don't really know something until you can teach it" is true. I was challenged, but I think I became a better programmer for it.
+
+While working at that company, I was assigned as the technical lead on a project that involved developing a process that would create a new predictive model (and associated forecast) on a weekly basis. This involved me writing 1000+ lines of code in R, which I really enjoyed. However, towards the end of the project, I noticed that my code was becoming too large for me to maintain and that my lack of architecture experience was causing quite a few headaches. It was a great experience, though, because it really made me realize that I had a desire and aptitude for programming at a serious level. It was this experience that helped me decide to take the plunge and apply to Hack Reactor.
+
+## Why Hack Reactor
+
+As an analytical person by nature, I researched programming bootcamps extensively. I learned that there were literally hundreds of these types of programs, some much more respectable than others. This particular [article](http://www.skilledup.com/articles/the-ultimate-guide-to-coding-bootcamps-the-most-selective-bootcamps/) was very helpful in helping me identify some of the more reputable ones. I also found this [site](http://bootcamper.io/) useful for identifying a broader swath of camps to investigate. My research confirmed my basic intuition that you get what you pay for with programming bootcamps.
+
+Towards the end of my research period, the three bootcamps that appealed to me the most were [App Academy](http://www.appacademy.io/), [Dev Bootcamp](http://www.devbootcamp.com), and [Hack Reactor](http://www.hackreactor.com).
+
+In the end, I was attracted to Hack Reactor for the following reasons:
+
+- **The focus on JavaScript**. JavaScript can now be used on the entire stack of web technologies, and is present on every mobile device and in every internet browser.
+- **The intensity**. If I was going to quit my job to attend one of these programming bootcamps, I wanted that time to be spent on the singular goal of becoming a software engineer. Hack Reactor meets 6 days a week, with core hours from 9am to 8pm. Many people stay even longer than that.
+- **The quality of outcomes**. Hack Reactor currently boasts a 99% software engineer placement rate within 3 months of graduation. Similar to my previous point, if I was going to take a risk by attending one of these programs, I wanted to minimize the risk of being unemployed upon graduation.
+- **The interview process**. Hack Reactor has a challenging interview process, which has the effect of only admitting people that are fully committed to the program. I know from experience how valuable it is to be surrounded by people who want to be doing the same thing you are.
+- **The student experience**. During my research phase, I contacted a number of graduates from Hack Reactor, and they all raved about their experience there. I was initially skeptical that the program could be so successful, but my worries were assuaged based on these conversations.
+- **[Yelp reviews](http://www.yelp.com/biz/hack-reactor-san-francisco)**. Of all of the bootcamps I researched, Hack Reactor by far had the most glowing reviews of any of them.
+
+I just completed my first week at Hack Reactor (which I hope to blog about soon!), and I can say that I am incredibly happy with my decision to attend HR.
+
+If anyone comes across this site while researching programming bootcamps, please feel free to reach out to me. I contacted many strangers during my research phase, and they were all very patient with my many questions. I would love to pay it forward if possible!
