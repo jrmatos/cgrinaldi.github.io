@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Automating Git Pull Requests using Bash Scripting
+title:      Automating Git Pull using Bash Scripting
 date:       2015-02-24 00:00:00
-summary:    A quick tutorial on automating the process of performing git pull requests on a collection of local repositories.
+summary:    A quick tutorial on automating the process of performing git pull on a collection of local repositories.
 tags: [automation, bash, git, github]
 ---
 
