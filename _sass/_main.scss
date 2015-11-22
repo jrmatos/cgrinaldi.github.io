@@ -558,3 +558,13 @@ Copyright (c) 2014 Daniel Eden
 ul p {
   margin-bottom: 0.5rem;
 }
+
+.boxed {
+  margin: 20px auto;
+  padding: 20px;
+  font-size: 20px;
+  background-color: #ddd;
+  line-height: 30px;
+  font-style: italic;
+  width: 80%;
+}

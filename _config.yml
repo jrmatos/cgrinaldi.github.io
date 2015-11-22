@@ -6,6 +6,11 @@ description: "Chris Rinaldi is a data scientist who has decided to enroll in a p
 baseurl:     ""
 url:         "http://cgrinaldi.github.io"
 
+# Pagination
+gems: ["jekyll-paginate"]
+paginate: 5
+paginate_path: "page:num"
+
 # Google analytics
 google_analytics: "UA-56717704-1"
 
