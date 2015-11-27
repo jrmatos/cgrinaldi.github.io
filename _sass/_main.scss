@@ -132,7 +132,6 @@ body {
 .pagination,
 .button {
   font-size: 1rem;
-
   font-weight: 300;
   text-align: center;
 }
@@ -141,7 +140,7 @@ body {
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
-  background: #fafafa;
+  background: #f2f2f2;
   border-radius: 0.1875em;
   border: 1px solid #f3f3f3;
   color: #333333;
@@ -564,7 +563,7 @@ ul p {
   padding: 20px;
   font-size: 20px;
   background-color: #ddd;
-  line-height: 30px;
+  line-height: 37px;
   font-style: italic;
   width: 80%;
 }
